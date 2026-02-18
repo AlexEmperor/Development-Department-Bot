@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevelopmentLaboratoryBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1a24d467959a44a84d2b75b16bf9359246f5dfc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9a0d07cd6b13406003e0f59797255a20c92c012")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevelopmentLaboratoryBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevelopmentLaboratoryBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
