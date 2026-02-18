@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Git\\DevelopmentLaboratoryBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|c:\\git\\developmentlaboratorybot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|c:\\git\\developmentlaboratorybot\\messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|solutionrelative:messagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|c:\\git\\developmentlaboratorybot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2D22F01-E616-4F90-A2E1-42D57FA1F78E}|DevelopmentLaboratoryBot.csproj|c:\\git\\developmentlaboratorybot\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +58,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
@@ -66,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MessageHandler.cs",
               "DocumentMoniker": "C:\\Git\\DevelopmentLaboratoryBot\\MessageHandler.cs",
               "RelativeDocumentMoniker": "MessageHandler.cs",
               "ToolTip": "C:\\Git\\DevelopmentLaboratoryBot\\MessageHandler.cs",
               "RelativeToolTip": "MessageHandler.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAgwJ4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAgwKIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T09:50:53.94Z",
               "EditorCaption": ""
@@ -85,7 +89,7 @@
               "RelativeDocumentMoniker": "ButtonHandler.cs",
               "ToolTip": "C:\\Git\\DevelopmentLaboratoryBot\\ButtonHandler.cs",
               "RelativeToolTip": "ButtonHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-18T09:42:52.383Z",
               "EditorCaption": ""
@@ -105,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Git\\DevelopmentLaboratoryBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Git\\DevelopmentLaboratoryBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-13T19:07:14.056Z",
               "EditorCaption": ""
