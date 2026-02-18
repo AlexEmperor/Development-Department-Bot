@@ -3,7 +3,8 @@ using Telegram.Bot;
 using Telegram.Bot.Polling;
 
 using var cts = new CancellationTokenSource();
-var bot = new TelegramBotClient(Constants.TOKEN, cancellationToken: cts.Token);
+var token = Environment.GetEnvironmentVariable("BOT_TOKEN");
+var bot = new TelegramBotClient(token!);
 var _messageHandler = new MessageHandler(bot);
 var me = await bot.GetMe();
 
@@ -16,7 +17,7 @@ async Task OnError(Exception exception, HandleErrorSource source)
     Console.WriteLine(exception); // просто выводим в консоль
 }
 
-Console.WriteLine($"@{me.Username} is running... Press Enter to terminate");
-Console.ReadLine();
-cts.Cancel(); // stop the bot
+Console.WriteLine($"@{me.Username} is running...");
+await Task.Delay(-1);
+
 
